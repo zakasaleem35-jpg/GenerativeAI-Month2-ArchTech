@@ -1,0 +1,4 @@
+unsloth
+torch
+openai-whisper
+gTTS
